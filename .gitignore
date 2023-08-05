@@ -1,2 +1,8 @@
 Python_script/.ipynb_checkpoints
 WebDev/node_modules
+
+# airflow
+airflow/config
+airflow/logs
+airflow/plugins
+airflow/dags/__pycache__
