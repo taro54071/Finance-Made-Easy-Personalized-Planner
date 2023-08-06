@@ -2,7 +2,8 @@ import pendulum
 from airflow import DAG
 from airflow.operators.bash_operator import BashOperator
 from airflow.operators.python_operator import PythonOperator
-from airflow.operators.dummy_operator import DummyOperator
+
+from asyncio import taskgroups
 
 
 args = {"owner": "Taro"}
@@ -17,6 +18,12 @@ with DAG(
     ),
     schedule_interval="0 8 * * 1-5",  # Run once on every weekday at 08:00 AM
 ) as dag:
-    start = DummyOperator(task_id="Start")
-
-    end = DummyOperator(task_id="End")
+@task_group()
+def scb():
+    import requests
+    @task()
+    def update_new_fund():
+        """
+            This task work as a update to ssf_list.txt in config folder.
+            Might be optimizable(?), e.g., comparing two txt file by binary trait(?)
+        """
