@@ -1,14 +1,15 @@
-Python_script/.ipynb_checkpoints
 WebDev/node_modules
+# Python
+Python_script/.ipynb_checkpoints
 Python_script/pdf_factsheet
 Python_script/spec_suit
 Python_script/csv_save_script.ipynb
 Python_script/get_nav_data.ipynb
 Python_script/tmp/
+Python_script/tmp/tmp.jpg
+Python_script/tmp/tmp.pdf
+Python_script/tmp/tmp.txt
 # airflow
 airflow/logs
 airflow/plugins
 airflow/dags/__pycache__
-Python_script/tmp/tmp.jpg
-Python_script/tmp/tmp.pdf
-Python_script/tmp/tmp.txt
