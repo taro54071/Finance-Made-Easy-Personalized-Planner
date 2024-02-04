@@ -1,0 +1,96 @@
+,proj_id,risk_spectrum,spec_code,amc,name_th,proj_retail_type,cancel_date,fund_status,proj_abbr_name,proj_name_en
+0,M0004_2564,5,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBAA,SCB Active Allocation Fund
+1,M0015_2564,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBAO,SCB Asia Opportunity Fund
+2,M0024_2560,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBUSHY,SCB US Short Duration High Income Bond
+3,M0026_2539,6,IND,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBSETFUND,SCB SET INDEX FUND   
+4,M0026_2551,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBAEMFUND,SCB ASIAN EMERGING MARKETS OPEN END FUND    
+5,M0031_2557,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBEUEQFUND,SCB EUROPEAN EQUITY FUND
+6,M0061_2561,5,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBFIN,SCB Global Fixed Income Fund
+7,M0065_2558,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBINDIAFUND,SCB INDIA EQUITY FUND
+8,M0079_2564,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCHIN,SCB Active All China Equity Fund
+9,M0081_2567,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,SE,SCBCP6M36,SCB Capital Protection 6M36
+10,M0086_2559,6,SPF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBST555B,SCB SMART TRADE 555 FUND B
+11,M0088_2567,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,SE,SCBCP3M51,SCB Capital Protection 3M51
+12,M0090_2567,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,SE,SCBCP1Y11,SCB Capital Protection 1Y11
+13,M0094_2561,5,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBOPP,SCB Credit Opportunities Fund
+14,M0124_2561,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCHEQ,SCB All China Equity Fund
+15,M0141_2559,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBEUSMFUND,SCB European Small Cap Equity Fund
+16,M0142_2561,6,FF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBJPSM,SCB Japan Small Cap Equity Fund
+17,M0151_2564,5,FF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBGTTG2,SCB Global Thematic Trigger 2 Fund
+18,M0155_2556,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCEHFUND,SCB CHINA EQUITY THB HEDGE
+19,M0191_2550,6,LTF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBLTS,SCB SMART LONG TERM EQUITY FUND
+20,M0205_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP1Y5,SCB Capital Protection 1Y5
+21,M0206_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP1Y6,SCB Capital Protection 1Y6
+22,M0245_2559,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBDIGIFUND,SCB GLOBAL DIGITAL FUND
+23,M0259_2563,5,FF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBWIP,SCB World Integrated Portfolio
+24,M0293_2563,5,FF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBDM,SCB Dynamic Fund
+25,M0298_2560,5,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBWIN,SCB World Income Fund
+26,M0306_2552,1,MM,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBTMF,SCB TREASURY MONEY OPEN END FUND  
+27,M0322_2561,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBGEAR,SCB Global Equity Absolute Return Fund
+28,M0341_2562,5,FF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBRAA,SCB Robo Asset Allocation
+29,M0343_2563,5,FF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBDM2,SCB Dynamic 2 Fund
+30,M0366_2558,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBGIFUND,SCB GLOBAL INFRASTRUCTURE EQUITY FUND
+31,M0400_2555,1,MM,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBTMFPLUS,SCB TREASURY MONEY PLUS OPEN END FUND
+32,M0406_2559,7,"FED,SE",C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBGPROPFUND,SCB GLOBAL PROPERTY
+33,M0408_2560,6,FF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBROBO,SCB Global Robotics Fund
+34,M0416_2560,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBAEMH,SCB Asian Emerging Markets THB Hedged
+35,M0429_2556,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBNKY225,SCB JAPAN EQUITY FUND
+36,M0449_2558,7,"FED,SE",C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBGHCFUND,SCB GLOBAL HEALTH CARE EQUITY FUND
+37,M0512_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP1Y9,SCB Capital Protection 1Y9
+38,M0526_2560,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBPOP,SCB Global Sustainable Population Trend Fund
+39,M0559_2557,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBKEQTGFUND,SCB KOREA EQUITY FUND
+40,M0590_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP9M1,SCB Capital Protection 9M1
+41,M0591_2552,7,"IND,SE",C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBBANKINGFUND,SCB SET BANKING SECTOR INDEX FUND
+42,M0593_2552,7,"IND,SE",C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBENERGYFUND,SCB SET ENERGY SECTOR INDEX FUND
+43,M0605_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M18,SCB Capital Protection 6M18
+44,M0634_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M19,SCB Capital Protection 6M19
+45,M0641_2558,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBUSSMFUND,SCB US SMALL CAP EQUITY FUND
+46,M0662_2560,5,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBINC,SCB Income Fund
+47,M0664_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M20,SCB Capital Protection 6M20
+48,M0676_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M21,SCB Capital Protection 6M21
+49,M0684_2559,5,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBGIN,SCB Global Income Fund
+50,M0692_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M22,SCB Capital Protection 6M22
+51,M0709_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M23,SCB Capital Protection 6M23
+52,M0728_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M24,SCB Capital Protection 6M24
+53,M0729_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP9M2,SCB Capital Protection 9M2
+54,M0732_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP3M38,SCB Capital Protection 3M38
+55,M0742_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M25,SCB Capital Protection 6M25
+56,M0744_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP3M39,SCB Capital Protection 3M39
+57,M0745_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP9M3,SCB Capital Protection 9M3
+58,M0751_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M26,SCB Capital Protection 6M26
+59,M0756_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP9M4,SCB Capital Protection 9M4
+60,M0757_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP3M40,SCB Capital Protection 3M40
+61,M0758_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP3M41,SCB Capital Protection 3M41
+62,M0762_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M27,SCB Capital Protection 6M27
+63,M0774_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M28,SCB Capital Protection 6M28
+64,M0786_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP3M42,SCB Capital Protection 3M42
+65,M0787_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP1Y10,SCB Capital Protection 1Y10
+66,M0792_2555,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBEMEQFUND,SCB Sustainable Emerging Markets Equity Fund
+67,M0838_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M29,SCB Capital Protection 6M29
+68,M0839_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP3M43,SCB Capital Protection 3M43
+69,M0843_2566,5,TESG,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBTM,SCB Thai Sustainable Mixed Fund
+70,M0848_2566,6,TESG,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBTA,SCB Thai Sustainable Equity Active Fund
+71,M0850_2566,6,"IND,TESG",C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBTP,SCB Thai Sustainable Equity Passive Fund
+72,M0858_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP3M44,SCB Capital Protection 3M44
+73,M0871_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP3M45,SCB Capital Protection 3M45
+74,M0872_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M30,SCB Capital Protection 6M30
+75,M0885_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M31,SCB Capital Protection 6M31
+76,M0889_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP3M47,SCB Capital Protection 3M47
+77,M0890_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP3M46,SCB Capital Protection 3M46
+78,M0909_2555,6,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBGEQFUND,SCB GLOBAL EQUITY FUND
+79,M0911_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP3M48,SCB Capital Protection 3M48
+80,M0913_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M32,SCB Capital Protection 6M32
+81,M0932_2554,5,FF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBGLOWP,SCB GLOBAL WEALTH PLUS OPEN END FUND
+82,M0936_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP3M49,SCB Capital Protection 3M49
+83,M0937_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP3M50,SCB Capital Protection 3M50
+84,M0938_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M34,SCB Capital Protection 6M34
+85,M0939_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M33,SCB Capital Protection 6M33
+86,M0940_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M35,SCB Capital Protection 6M35
+87,M0241_2554,8,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBGOLDFUND,SCB GOLD OPEN END FUND
+88,M0263_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP1Y7,SCB Capital Protection 1Y7
+89,M0329_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP1Y8,SCB Capital Protection 1Y8
+90,M0511_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M15,SCB Capital Protection 6M15
+91,M0522_2555,8,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBOILFUND,SCB OIL FUND
+92,M0549_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M16,SCB Capital Protection 6M16
+93,M0570_2566,3,CRF,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCP6M17,SCB Capital Protection 6M17
+94,M0882_2554,8,FED,C0000000239,บริษัท หลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด,R,-,RG,SCBCOMP,SCB COMMODITY PLUS FUND
