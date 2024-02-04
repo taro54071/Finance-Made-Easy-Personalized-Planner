@@ -1,7 +1,7 @@
 Python_script/.ipynb_checkpoints
 WebDev/node_modules
 Python_script/pdf_factsheet
-
+Python_script/spec_suit
 # airflow
 airflow/logs
 airflow/plugins
