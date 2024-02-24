@@ -12,3 +12,4 @@ airflow/dags/__pycache__
 
 .env
 .venv
+WebDev/node_modules
