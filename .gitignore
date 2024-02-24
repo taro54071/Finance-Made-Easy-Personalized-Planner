@@ -10,3 +10,4 @@ airflow/plugins
 airflow/dags/__pycache__
 
 .env
+.venv
